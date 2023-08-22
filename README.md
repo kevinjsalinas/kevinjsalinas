@@ -31,7 +31,6 @@ My personal portfolio to share with the world
 <p align="left">
 <a href="https://linkedin.com/in/kevinsalinas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="kevinsalinas" width="50" /></a>
 <a href="https://medium.com/@kevinjsalinas" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fit:1400/1*psYl0y9DUzZWtHzFJLIvTw.png" alt="@kevinjsalinas" width="45" /></a>
-<a href="https://www.hackerrank.com/kevinjsalinas" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/800px-HackerRank_logo.png" alt="kevinjsalinas" width="60" /></a>
 </p>
 
 <!--
