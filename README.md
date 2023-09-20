@@ -16,7 +16,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" />
 
 ### I'm currently working on:
-My personal portfolio to share with the world
+Building an event and experience application for Code&Coffee's volunteering group as a full-stack software engineer
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinjsalinas&show_icons=true&locale=en&layout=compact" alt="kevinjsalinas" /></p>
 
